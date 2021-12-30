@@ -6,6 +6,12 @@ I suggest that you use `virtualenv`.
 
 ### Usage
 
+Clone repository:
+
+```
+git clone https://github.com/endormi/extpyc.git
+```
+
 Install:
 
 ```shell
